@@ -1,1 +1,1 @@
-My first java project on Student Management System
+Java projects
